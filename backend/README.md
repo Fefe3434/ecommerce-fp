@@ -1,4 +1,4 @@
-# Documentation de l'API de Gestion des Produits
+# Ecommerce-FP Backend
 
 ## Introduction
 
@@ -13,14 +13,14 @@ Pour configurer correctement l'environnement de développement de ce projet, sui
 Assurez-vous d'avoir Python 3.11 ou une version supérieure installée sur votre machine. Vous pouvez le vérifier en exécutant `python --version` ou `python3 --version` dans votre terminal. Ainsi que **pip** (le gestionnaire de paquets Python).
 
 ### Étapes d'installation
-1. Clonez le dépôt principal (`product_management_app`) contenant le frontend et le backend :
+1. Clonez le dépôt principal (`ecommerce-fp`) contenant le frontend et le backend :
 
    ```sh
-   git clone https://github.com/Fefe3434/product_management_app.git
+   git clone https://github.com/Fefe3434/ecommerce-fp.git
    ```
 2. Accédez au dossier du frontend :
    ```sh
-   cd product_management_app/backend
+   cd ecommerce-fp/backend
    ```
 
 3. Étapes d'Installation

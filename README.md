@@ -1,4 +1,4 @@
-# Product Management App
+# Ecommerce-FP
 
 ## Description
 Product Management App est une application complète de gestion de produits avec une interface utilisateur et une API backend.  
@@ -12,7 +12,7 @@ L'application est divisée en deux parties :
 
 ## Structure du projet
 ```sh
-product_management_app
+ecommerce-fp
 ├── frontend        
 │   ├── src
 │   ├── package.json
@@ -46,12 +46,12 @@ product_management_app
 
 ### Cloner le Dépôt
 ```sh
-git clone https://github.com/Fefe3434/product_management_app.git
+git clone https://github.com/Fefe3434/ecommerce-fp.git
 ```
 
 ### Accédez au dossier du projet :
    ```sh
-   cd product_management_app
+   cd ecommerce-fp
    ```
 
 

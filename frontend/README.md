@@ -1,4 +1,4 @@
-# Product Management Frontend
+# Ecommerce-FP Frontend
 
 ## Description
 Ce projet est une application frontend permettant de gérer un catalogue de produits. Il inclut des fonctionnalités de CRUD (Create, Read, Update, Delete) avec une pagination, une recherche et une gestion des stocks.
@@ -21,13 +21,13 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - **Un fichier `.env` pour configurer l'URL de l'API**
 
 ### Étapes d'installation
-1. Clonez le dépôt principal (`product_management_app`) contenant le frontend et le backend :
+1. Clonez le dépôt principal (`ecommerce-fp`) contenant le frontend et le backend :
    ```sh
-   https://github.com/Fefe3434/product_management_app.git
+   https://github.com/Fefe3434/ecommerce-fp.git
    ```
 2. Accédez au dossier du frontend :
    ```sh
-   cd product_management_app/frontend
+   cd ecommerce-fp/frontend
    ```
 3. Installez les dépendances :
    ```sh
