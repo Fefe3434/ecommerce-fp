@@ -1,0 +1,9 @@
+# System files
+.env
+/__pycache__
+/log
+/logs
+**/__pycache__
+**/log
+**/logs
+/env
